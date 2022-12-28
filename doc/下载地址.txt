@@ -1,0 +1,4 @@
+// ci3框架地址
+https://github.com/bcit-ci/CodeIgniter.git
+// modular-extensions-hmvc
+https://github.com/orionstar/codeigniter-modular-extensions-hmvc.git
